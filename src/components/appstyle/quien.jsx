@@ -47,7 +47,7 @@ function Quien(props) {
         timerIn()
     });
     return (
-        <div className="que-container absolute">
+        <div className="que-container">
             <div className="quien">
                 <h3 id="name" className="purple go-enter">Jesús Sánchez</h3>
                 <p id="job" className="yellow go-enter">Web Designer/Developer</p>
